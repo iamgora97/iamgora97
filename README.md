@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
 
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgora97&label=Profile%20views&color=0e75b6&style=flat" alt="iamgora97" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nandigourob" target="blank"><img src="https://img.shields.io/twitter/follow/nandigourob?logo=twitter&style=for-the-badge" alt="nandigourob" /></a> </p>
@@ -18,7 +16,7 @@
 
 - 📫 How to reach me **gourobnandi28@gmail.com**
 
-- ⚡ Insterested In **Finance, Credit Card, Technology, Gadgets, Gradening, **
+- ⚡ Insterested In **Finance, Credit Card, Technology, Gadgets, Gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
