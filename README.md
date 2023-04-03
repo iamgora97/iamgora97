@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **gourobnandi28@gmail.com**
 
-- ⚡ Insterested In **Finance and Credit Card enthusiasts**
+- ⚡ Insterested In **Finance, Credit Card, Technology, Gadgets, Gradening, **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
