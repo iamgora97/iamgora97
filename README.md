@@ -1,8 +1,7 @@
 [![MasterHead](https://github.com/iamgora97/iamgora97/blob/main/Gora.png)](https://gourobnandi.netlify.app/)
 <h1 align="center">Hi 👋, I'm Gourob Nandi</h1>
 <h3 align="center">A passionate frontend web-developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgyY2IwZDc3MTk2NTBkZDA2OWEwNGQ0MDg2YWYzODAxMDIyOWRhZCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgora97&label=Profile%20views&color=0e75b6&style=flat" alt="iamgora97" /> </p>
 
